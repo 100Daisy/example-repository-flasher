@@ -1,18 +1,20 @@
 {
   "version": 1,
   "config": {
-      "rom": "A new custom rom",
-      "style": "localhost/style.css"
+    "rom": "A new custom rom",
+    "style": "localhost/style.css"
   },
-  "devices": [{
+  "devices": {
     "cebu": {
-      "files": [{
-        "filename": "vbmeta.img",
-        "partition": "vbmeta",
-        "slot": "a",
-        "size": "0.00 MB",
-        "blob": "localhost/boot.img"
-      }]
+      "files": [
+        {
+          "filename": "vbmeta.img",
+          "partition": "vbmeta",
+          "slot": "a",
+          "size": "0.00 MB",
+          "blob": "localhost/boot.img"
+        }
+      ]
     }
-  }]
+  }
 }
