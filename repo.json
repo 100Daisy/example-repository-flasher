@@ -1,29 +1,25 @@
 {
-  "version": 1,
-  "config": {
-    "rom": "A new custom rom",
-    "style": "localhost/style.css"
-  },
-  "devices": [
-    "cebu": {
-      "files": [
-        {
-         "filename": "vbmeta.img",
-         "partition": "vbmeta",
-         "slot": "a",
-         "size": "0.00 MB",
-         "blob": "localhost/boot.img"
-        }
-      ]
-    }
-  ]
-   "files": [
-      {
-         "filename": "vbmeta.img",
-         "partition": "vbmeta",
-         "slot": "a",
-         "size": "0.00 MB",
-         "blob": "localhost/boot.img"
-      }
-   ]
+	"version": 1,
+	"config": {
+		"rom": "A new custom rom",
+		"style": "localhost/style.css"
+	},
+	"devices": {
+		"cebu": {
+			"files": [{
+				"filename": "vbmeta.img",
+				"partition": "vbmeta",
+				"slot": "a",
+				"size": "0.00 MB",
+				"blob": "localhost/boot.img"
+			}]
+		}
+	},
+	"files": [{
+		"filename": "vbmeta.img",
+		"partition": "vbmeta",
+		"slot": "a",
+		"size": "0.00 MB",
+		"blob": "localhost/boot.img"
+	}]
 }
