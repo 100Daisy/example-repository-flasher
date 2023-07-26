@@ -4,7 +4,7 @@
     "rom": "A new custom rom",
     "style": "localhost/style.css"
   },
-  "devices": {
+  "devices": [{
     "cebu": {
       "files": [
         {
@@ -27,5 +27,5 @@
         }
       ]
     }
-  }
+  }]
 }
