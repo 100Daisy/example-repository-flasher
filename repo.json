@@ -3,7 +3,7 @@
   "config": {
     "rom": "A new custom rom",
     "style": "localhost/style.css"
-  }
+  },
   "devices": [
     "cebu": {
       "files": [
