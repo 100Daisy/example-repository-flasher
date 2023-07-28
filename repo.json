@@ -8,8 +8,8 @@
     "cebu": {
       "files": [
         {
-          "filename": "vbmeta.img",
-          "partition": "vbmeta",
+          "filename": "boot.img",
+          "partition": "boot",
           "slot": "a",
           "size": "0.00 MB",
           "blob": "localhost/boot.img"
