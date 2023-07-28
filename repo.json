@@ -21,7 +21,6 @@
           "filename": "vbmeta.img",
           "partition": "vbmeta",
           "slot": "a",
-          "size": "0.00 MB",
           "blob": "localhost/boot.img"
         }
       ]
