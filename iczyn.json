@@ -52,10 +52,44 @@
     "lime": {
       "files": [
         {
+          "filename": "boot.img",
+          "partition": "boot",
+          "blob": "https://mirrors.elektropierdolnik.pl/IczYn/EvoX/lime/10261443/boot.img"
+        },
+        {
+          "filename": "dtbo.img",
+          "partition": "dtbo",
+          "blob": "https://mirrors.elektropierdolnik.pl/IczYn/EvoX/lime/10261443/dtbo.img"
+        },
+        {
+          "filename": "recovery.img",
+          "partition": "recovery",
+          "blob": "https://mirrors.elektropierdolnik.pl/IczYn/EvoX/lime/10261443/recovery.img"
+        },
+        {
           "filename": "vbmeta.img",
           "partition": "vbmeta",
-          "slot": "a",
-          "blob": "localhost/boot.img"
+          "blob": "https://mirrors.elektropierdolnik.pl/IczYn/EvoX/lime/10261443/vbmeta.img"
+        },
+        {
+          "filename": "product.img",
+          "partition": "product",
+          "blob": "https://mirrors.elektropierdolnik.pl/IczYn/EvoX/lime/10261443/product.img"
+        },
+                {
+          "filename": "system.img",
+          "partition": "system",
+          "blob": "https://mirrors.elektropierdolnik.pl/IczYn/EvoX/lime/10261443/system.img"
+        },
+                {
+          "filename": "vendor.img",
+          "partition": "vendor",
+          "blob": "https://mirrors.elektropierdolnik.pl/IczYn/EvoX/lime/10261443/vendor.img"
+        },
+                {
+          "filename": "system_ext.img",
+          "partition": "system_ext",
+          "blob": "https://mirrors.elektropierdolnik.pl/IczYn/EvoX/lime/10261443/system_ext.img"
         }
       ]
     }
