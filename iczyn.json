@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "config": {
+    "rom": "EvolutionX by IczYn",
+    "style": "localhost/style.css"
+  },
+  "devices": {
+    "citrus": {
+      "files": [
+        {
+          "filename": "boot.img",
+          "partition": "boot",
+          "blob": "https://mirrors.elektropierdolnik.pl/IczYn/EvoX/citrus/10261454/boot.img"
+        },
+        {
+          "filename": "dtbo.img",
+          "partition": "dtbo",
+          "blob": "https://mirrors.elektropierdolnik.pl/IczYn/EvoX/citrus/10261454/dtbo.img"
+        },
+        {
+          "filename": "recovery.img",
+          "partition": "recovery",
+          "blob": "https://mirrors.elektropierdolnik.pl/IczYn/EvoX/citrus/10261454/recovery.img"
+        },
+        {
+          "filename": "vbmeta.img",
+          "partition": "vbmeta",
+          "blob": "https://mirrors.elektropierdolnik.pl/IczYn/EvoX/citrus/10261454/vbmeta.img"
+        },
+        {
+          "filename": "product.img",
+          "partition": "product",
+          "blob": "https://mirrors.elektropierdolnik.pl/IczYn/EvoX/citrus/10261454/product.img"
+        },
+                {
+          "filename": "system.img",
+          "partition": "system",
+          "blob": "https://mirrors.elektropierdolnik.pl/IczYn/EvoX/citrus/10261454/system.img"
+        },
+                {
+          "filename": "vendor.img",
+          "partition": "vendor",
+          "blob": "https://mirrors.elektropierdolnik.pl/IczYn/EvoX/citrus/10261454/vendor.img"
+        },
+                {
+          "filename": "system_ext.img",
+          "partition": "system_ext",
+          "blob": "https://mirrors.elektropierdolnik.pl/IczYn/EvoX/citrus/10261454/system_ext.img"
+        }
+      ]
+    },
+    "lime": {
+      "files": [
+        {
+          "filename": "vbmeta.img",
+          "partition": "vbmeta",
+          "slot": "a",
+          "blob": "localhost/boot.img"
+        }
+      ]
+    }
+  }
+}
