@@ -46,7 +46,7 @@
           "filename": "system_ext.img",
           "partition": "system_ext",
           "blob": "https://mirrors.elektropierdolnik.pl/IczYn/EvoX/citrus/10261454/system_ext.img"
-        },
+        }
       ]
     },
     "lime": {
