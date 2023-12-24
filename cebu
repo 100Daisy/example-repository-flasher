@@ -1,48 +1,13 @@
 {
   "version": 1,
-  "config": {
-    "rom": "PixelExperience by 100Daisy",
-    "style": "localhost/style.css"
-  },
   "devices": {
     "borneo": {
-      "files": [
-        {
-          "filename": "boot.img",
-          "partition": "boot",
-          "blob": "https://mirrors.gitdaisy.works/PixelExperience/cebu/03122023/boot.img"
-        },
-        {
-          "filename": "dtbo.img",
-          "partition": "dtbo",
-          "blob": "https://mirrors.gitdaisy.works/PixelExperience/cebu/03122023/dtbo.img"
-        },
-        {
-          "filename": "recovery.img",
-          "partition": "recovery",
-          "blob": "https://mirrors.gitdaisy.works/PixelExperience/cebu/03122023/recovery.img"
-        },
-        {
-          "filename": "vbmeta.img",
-          "partition": "vbmeta",
-          "blob": "https://mirrors.gitdaisy.works/PixelExperience/cebu/03122023/vbmeta.img"
-        },
-        {
-          "filename": "product.img",
-          "partition": "product",
-          "blob": "https://mirrors.gitdaisy.works/PixelExperience/cebu/03122023/product.img"
-        },
-                {
-          "filename": "system.img",
-          "partition": "system",
-          "blob": "https://mirrors.gitdaisy.works/PixelExperience/cebu/03122023/system.img"
-        },
-        {
-          "filename": "vendor.img",
-          "partition": "vendor",
-          "blob": "https://mirrors.gitdaisy.works/PixelExperience/cebu/03122023/vendor.img"
-        }
-      ]
+      "package": "https://mirrors.gitdaisy.works/PixelExperience/cebu/03122023/PixelExperience-14-03122023-img.zip",
+      "skipSuperUpdate": true
+    },
+    "cebu": {
+      "package": "https://mirrors.gitdaisy.works/PixelExperience/cebu/03122023/PixelExperience-14-03122023-img.zip",
+      "skipSuperUpdate": true
     }
   }
 }
