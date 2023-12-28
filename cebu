@@ -2,11 +2,11 @@
   "version": 1,
   "devices": {
     "borneo": {
-      "package": "https://mirrors.gitdaisy.works/PixelExperience/cebu/03122023/PixelExperience-14-03122023-img.zip",
+      "package": "https://mirrors.gitdaisy.works/PixelExperience/cebu/latest.zip",
       "skipSuperUpdate": true
     },
     "cebu": {
-      "package": "https://mirrors.gitdaisy.works/PixelExperience/cebu/03122023/PixelExperience-14-03122023-img.zip",
+      "package": "https://mirrors.gitdaisy.works/PixelExperience/cebu/latest.zip",
       "skipSuperUpdate": true
     }
   }
