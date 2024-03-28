@@ -2,11 +2,11 @@
   "version": 1,
   "devices": {
     "borneo": {
-      "package": "https://mirrors.gitdaisy.works/PixelExperience/cebu/latest.zip",
+      "package": "https://mirrors.gitdaisy.works/PixelExperience/cebu/PixelExperience_borneo-14.0-20240326-2210-BETA-fastboot.zip",
       "skipSuperUpdate": true
     },
     "cebu": {
-      "package": "https://mirrors.gitdaisy.works/PixelExperience/cebu/latest.zip",
+      "package": "https://mirrors.gitdaisy.works/PixelExperience/cebu/PixelExperience_borneo-14.0-20240326-2210-BETA-fastboot.zip",
       "skipSuperUpdate": true
     }
   }
