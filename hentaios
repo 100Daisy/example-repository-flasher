@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "devices": {
+    "borneo": {
+      "package": "https://mirrors.gitdaisy.works/HentaiOS/cebu/latest/hentai_borneo-img.zip"
+    },
+    "cebu": {
+      "package": "https://mirrors.gitdaisy.works/HentaiOS/cebu/latest/hentai_borneo-img.zip"
+    }
+  }
+}
