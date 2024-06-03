@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "devices": {
+    "borneo": {
+      "package": "https://mirrors.lolinet.com/firmware/lenomola/cebu/official/RETEU/XT2091-3_CEBU_RETEU_11_RZCS31.Q2-57-12-14_subsidy-DEFAULT_regulatory-XT2091-3_CFC.xml.zip"
+    },
+    "cebu": {
+      "package": "https://mirrors.lolinet.com/firmware/lenomola/cebu/official/RETEU/XT2091-3_CEBU_RETEU_11_RZCS31.Q2-57-12-14_subsidy-DEFAULT_regulatory-XT2091-3_CFC.xml.zip"
+    }
+  }
+}
