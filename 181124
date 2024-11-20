@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "devices": {
+    "borneo": {
+      "package": "https://mirrors.gitdaisy.works/PixelOS/181124/aosp_cebu-img.zip"
+    },
+    "cebu": {
+      "package": "https://mirrors.gitdaisy.works/PixelOS/181124/aosp_borneo-img.zip"
+    }
+  }
+}
